@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedro-Gulin
 - 👀 I’m interested in Computer Science and Cybersecurity
 - 🌱 I’m currently learning Computer Science at PUCPR
-- 📫 How to reach me pedrogulinb27@gmail.com
+- 📫 How to reach me pedrogulin8@gmail.com
 - ⚡ Fun fact: I love Kali
 
 <!---
